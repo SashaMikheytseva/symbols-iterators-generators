@@ -35,7 +35,7 @@ export default class Team {
           value: players[index++],
           done: false,
         };
-      },
+      }
     };
   }
 }
